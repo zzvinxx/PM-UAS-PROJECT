@@ -17,25 +17,25 @@ class MyPage extends StatelessWidget {
       imagePath: "assets/img/image.png",
     ),
     ChatItem(
-      name: 'Cecep',
+      name: 'Budi',
       message: 'Yoo',
       month: 'Februari',
       page: HomePage02(),
-      imagePath: "assets/img/image.png",
+      imagePath: "assets/img/image1.jpeg",
     ),
     ChatItem(
       name: 'Vincent Collintan',
       message: 'Hai',
       month: 'Maret',
       page: HomePage03(),
-      imagePath: "assets/img/image.png",
+      imagePath: "assets/img/image2.jpeg",
     ),
     ChatItem(
-      name: 'MICHAEL LAU',
+      name: 'Dimas',
       message: 'Salam Kenal',
       month: 'April',
       page: HomePage04(),
-      imagePath: "assets/img/image.png",
+      imagePath: "assets/img/image4.jpeg",
     ),
   ];
 
